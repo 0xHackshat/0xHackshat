@@ -6,10 +6,10 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[youtube]: [https://www.youtube.com/c/joshmadakor](https://www.youtube.com/channel/UC55jC4B_ux--hmPAY65XGug)
+[instagram]: [https://www.instagram.com/joshmadakor/](https://www.instagram.com/)
+[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/akshat-shirsat/)
 
 
 <!--
