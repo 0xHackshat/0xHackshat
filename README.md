@@ -17,14 +17,8 @@ Passionate about securing the digital realm, I am a cybersecurity enthusiast com
 <a target="_blank" href="https://www.linkedin.com/in/akshat-shirsat/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshat-shirsat/" alt="Linkedin Badge">
 </a>
-<a target="_blank" href="https://twitter.com/sidbelbase">
-<img src="https://img.shields.io/badge/sidbelbase-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sidbelbase" alt="Twitter Badge">
-</a>
 <a target="_blank" href="https://www.instagram.com/">
 <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/" alt="Instagram Badge">
-</a>
-<a target="_blank" href="https://behance.net/sidbelbase/">
-<img src="https://img.shields.io/badge/-sidbelbase-141414?style=for-the-badge&logo=Behance&logoColor=white&link=https://behance.net/sidbelbase" alt="Behance Badge">
 </a>
 <br>
 
