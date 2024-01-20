@@ -1,10 +1,10 @@
----
+<!-- ---
 title: akshat-shirsat
 date: '2024-01-01'
 spoiler: python Code Styled Readme Template
 categories: ["code-styled", "all-profile"]
 githubUsername: 'kingakshat'
----
+--- -->
 
 <img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 
