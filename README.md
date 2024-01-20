@@ -6,8 +6,6 @@ categories: ["code-styled", "all-profile"]
 githubUsername: 'kingakshat'
 --- -->
 
-<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
-
 <h1 align="left"><img src="https://raw.githubusercontent.com//master/wave.gif" width="30px"><strong> Hello There, I'm <a href="">Akshat Shirsat.</a></strong>
 </h1>
 
