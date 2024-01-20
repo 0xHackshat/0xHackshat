@@ -81,6 +81,6 @@ if __name__ == "__main__":
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>Feel free to reach out—I'm always eager to connect, collaborate, and explore new opportunities. Let's make something great together!</b> </em>
 
-
-<p align="center"><a href="https://github.com/kingakshat">⭐️ From Akshat</a></p>
+<!-- 
+<p align="center"><a href="https://github.com/kingakshat">⭐️ From Akshat</a></p> -->
 
