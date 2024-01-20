@@ -6,7 +6,7 @@ categories: ["code-styled", "all-profile"]
 githubUsername: 'kingakshat'
 --- -->
 
-<h1 align="left"><img src="https://raw.githubusercontent.com//master/wave.gif" width="30px"><strong> Hello There, I'm <a href="">Akshat Shirsat.</a></strong>
+<h1 align="left"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50px"><strong> Hello There, I'm <a href="">Akshat Shirsat.</a></strong>
 </h1>
 
 <h3 align="left"><strong>
@@ -18,6 +18,10 @@ Passionate about securing the digital realm, I am a cybersecurity enthusiast com
 <a target="_blank" href="https://www.instagram.com/">
 <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/" alt="Instagram Badge">
 </a>
+<a target="_blank" href="http://akshatshirsat.pythonanywhere.com/">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge">
+</a>
+
 <br>
 
 <br>
@@ -27,7 +31,7 @@ Passionate about securing the digital realm, I am a cybersecurity enthusiast com
 
 
 <h3 align="left"><strong>
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/fa-python.svg" width="25" height="25"> aboutMe.py</strong></h3>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" height="25"> aboutMe.py</strong></h3>
 
 ```python
 class Human:
@@ -64,7 +68,7 @@ if __name__ == "__main__":
         age=23,
         occupation="Data Analysts",
         hobbies=["Cricket", "Gammning", "Music"],
-        work="Tata Consultancu Servies",
+        work="TCS",
         projects=["Project 1", "Project 2", "Project 3"]
     )
 
