@@ -10,7 +10,7 @@ githubUsername: 'kingakshat'
 </h1>
 
 <h3 align="left"><strong>
-Passionate about securing the digital realm, I am a cybersecurity enthusiast committed to fortifying the virtual landscape against threats and ensuring a resilient and protected online environment for all.</strong></h3>
+Cybersecurity enthusiast with a passion for penetration testing, vulnerability analysis, digital forensics, threat hunting, and incident response, Proficient in Python, Linux, and web application development Currently building my Security Analyst skills through the use of various CTFs, certifications, and projects/labs</strong></h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/akshat-shirsat/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshat-shirsat/" alt="Linkedin Badge">
