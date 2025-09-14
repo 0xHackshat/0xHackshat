@@ -10,9 +10,7 @@ githubUsername: 'kingakshat'
 </h1>
 
 <h3 align="left"><strong>
-I’m a cybersecurity analyst with a passion for uncovering vulnerabilities before they become threats. Over the years I’ve specialized in security research where I’ve, Identified and responsibly disclosed critical vulnerabilities, Built automated tools for reconnaissance and fuzzing,
-
-I believe security isn’t just about defending systems, but about anticipating attack paths and proactively reducing risk.
+I’m Akshat Shirsat, a passionate Cybersecurity Analyst with a knack for building automation to make security smarter (and faster) My journey has taken me from working with data to digging deep into cloud, and more, basically, if it involves securing systems or scripting out repetitive tasks, I’m in. I enjoy solving CTF's, and experimenting with ways to make systems more resilient. For me, cybersecurity is not just a job but a constant puzzle where curiosity meets defense. I believe security isn’t just about defending systems, but about anticipating attack paths and proactively reducing risk.
 </strong></h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/akshat-shirsat/">
