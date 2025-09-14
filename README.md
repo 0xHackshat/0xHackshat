@@ -9,9 +9,15 @@ githubUsername: 'kingakshat'
 <h1 align="left"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50px"><strong> Hello, I'm <a href="">Akshat Shirsat.</a></strong>
 </h1>
 
-<h3 align="left"><strong>
-I’m Akshat Shirsat, a passionate Cybersecurity Analyst with a knack for building automation to make security smarter (and faster) My journey has taken me from working with data to digging deep into cloud, and more, basically, if it involves securing systems or scripting out repetitive tasks, I’m in. I enjoy solving CTF's, and experimenting with ways to make systems more resilient. For me, cybersecurity is not just a job but a constant puzzle where curiosity meets defense. I believe security isn’t just about defending systems, but about anticipating attack paths and proactively reducing risk.
-</strong></h3>
+<h3 align="left">A passionate Cybersecurity Analyst with a knack for building automation to make security smarter (and faster) </h3>
+    
+<h3>My journey has taken me from working with data to digging deep into cloud, and more, basically, if it involves securing systems or scripting out repetitive tasks, I’m in. </h3>
+
+<h3>I enjoy solving CTF's, and experimenting with ways to make systems more resilient. </h3>
+
+<h3>For me, cybersecurity is not just a job but a constant puzzle where curiosity meets defense. I believe security isn’t just about defending systems, but about anticipating attack paths and proactively reducing risk.</h3>
+
+<br>
 
 <a target="_blank" href="https://www.linkedin.com/in/akshat-shirsat/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshat-shirsat/" alt="Linkedin Badge">
