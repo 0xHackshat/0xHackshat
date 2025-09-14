@@ -34,46 +34,23 @@ Cybersecurity enthusiast with a passion for penetration testing, vulnerability a
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25" height="25"> aboutMe.py</strong></h3>
 
 ```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
 class Human:
-    def __init__(self, name, age, occupation, hobbies, work, projects):
-        self.name = name
-        self.age = age
-        self.occupation = occupation
-        self.hobbies = hobbies
-        self.work = work
-        self.projects = projects
 
-    def introduce(self):
-        print(f"Hello, world! My name is {self.name}.")
-        print(f"I am {self.age} years old and work as a {self.occupation} at {self.work}.")
-        print("In my free time, I enjoy the following hobbies:")
+    def __init__(self):
+        self.name = "Akshat (hackshat)"
+        self.role = "CyberSecurity Analyst"
+        self.language_spoken = ["zh_CN", "en_US"]
 
-        for hobby in self.hobbies:
-            print(f" - {hobby}")
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-        self.show_projects()
 
-    def show_projects(self):
-        if self.projects:
-            print("Here are some of my projects:")
-            for project in self.projects:
-                print(f" - {project}")
-        else:
-            print("I'm currently not working on any projects.")
-
-if __name__ == "__main__":
-    # Create an instance of the Human class
-    me = Human(
-        name="Akshat Shirsat",
-        age=23,
-        occupation="Data Analysts",
-        hobbies=["Cricket", "Gammning", "Music"],
-        work="TCS",
-        projects=["Project 1", "Project 2", "Project 3"]
-    )
-
-    # Introduce yourself
-    me.introduce()
+me = Human()
+me.say_hi()
 
 
 ```
