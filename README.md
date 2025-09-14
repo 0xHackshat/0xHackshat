@@ -6,11 +6,14 @@ categories: ["code-styled", "all-profile"]
 githubUsername: 'kingakshat'
 --- -->
 
-<h1 align="left"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50px"><strong> Hello There, I'm <a href="">Akshat Shirsat.</a></strong>
+<h1 align="left"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50px"><strong> Hello, I'm <a href="">Akshat Shirsat.</a></strong>
 </h1>
 
 <h3 align="left"><strong>
-Cybersecurity enthusiast with a passion for penetration testing, vulnerability analysis, digital forensics, threat hunting, and incident response, Proficient in Python, Linux, and web application development Currently building my Security Analyst skills through the use of various CTFs, certifications, and projects/labs</strong></h3>
+I’m a cybersecurity analyst with a passion for uncovering vulnerabilities before they become threats. Over the years I’ve specialized in security research where I’ve, Identified and responsibly disclosed critical vulnerabilities, Built automated tools for reconnaissance and fuzzing,
+
+I believe security isn’t just about defending systems, but about anticipating attack paths and proactively reducing risk.
+</strong></h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/akshat-shirsat/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshat-shirsat/" alt="Linkedin Badge">
