@@ -50,7 +50,7 @@ class Human:
     def __init__(self):
         self.name = "Akshat (hackshat)"
         self.role = "CyberSecurity Analyst"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.language_spoken = ["en_US", "hi_IN", "mr_IN", "xx_MATHS', "xx_GIBBERISH"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
